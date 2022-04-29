@@ -10,4 +10,4 @@
 
 #### 3. If user choose option 3 it will ask for the word to be updated. After updating a word it will show it's menu again.
 
-#### 4. If user choose option 4 it will whether you want to exit the application or not. If you choose 'yes' you will quit from application. If you choose 'no' it will display menu and asks for your choice to continue your application.
+#### 4. If user choose option 4 it will ask whether you want to exit the application or not. If you choose 'yes' you will quit from application. If you choose 'no' it will display menu and asks for your choice to continue your application.
