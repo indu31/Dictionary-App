@@ -1,0 +1,17 @@
+{
+    "hello": "greeting",
+    "encourage": "inspire",
+    "decision": "conclusion",
+    "learn": "memorize",
+    "python": "snake,computer language",
+    "horror": "fear",
+    "surprise": "astonish",
+    "eagerness": "eager",
+    "branch": "A subdivision of any organization.",
+    "permanent": "existing or intended to exist for an indefinite period",
+    "Bankrutcy": "Inability to pay debts",
+    "Debt": "an amount of money owed by one person, company, etc. to another,due",
+    "confidence": "assurance, belief in oneself and one's powers or abilities, self-confidence",
+    "sardonic": "mocking",
+    "challenge": "a demanding task or situation "
+}
